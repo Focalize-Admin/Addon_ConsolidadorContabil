@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Addon_Messem", "Addon_Messem.csproj", "{BCD27085-EEA1-4B64-A4EF-5D92C0C18393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCD27085-EEA1-4B64-A4EF-5D92C0C18393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD27085-EEA1-4B64-A4EF-5D92C0C18393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD27085-EEA1-4B64-A4EF-5D92C0C18393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD27085-EEA1-4B64-A4EF-5D92C0C18393}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFD83E34-4C6D-487F-BC9A-D0236760D7BD}
+	EndGlobalSection
+EndGlobal
